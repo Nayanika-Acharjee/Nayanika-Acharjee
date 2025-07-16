@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Nayanika Acharjee</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=700&lines=👩‍💻+Software+Developer;💡+Competitive+Programmer;🌱+Lifelong+Learner;🚀+Building+solutions+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=700&lines=👩‍💻+Software+Developer;💡+Competitive+Programmer;🌱+Tech+Enthusiast;🚀+Building+solutions+that+matter" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="working gif" width="180"/>
