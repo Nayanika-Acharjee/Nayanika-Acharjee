@@ -76,6 +76,45 @@
 - 🌐 **[Project Name](link)** – short description, tech stack
 
 ---
+### 🏆 Awards and Achievements
+<p align="center">
+<a href="https://drive.google.com/file/d/1uagOG7l_5DGSrSft586TOPbqXmVlLAil/view?usp=drive_link">
+Certificate of Completion: Introduction  to Data Science
+
+✨Course Overview:
+I successfully completed the "Intro to Data Science" course, gaining a solid foundation in data science concepts and techniques. 
+
+💡Key Skills and Concepts Learnt:
+
+- Supervised Learning:
+    - Logistic Regression: understanding the logistic function, odds ratios, and model evaluation metrics
+    - Decision Trees: recursive partitioning, feature selection, and hyperparameter tuning
+    - Random Forest: ensemble methods, bagging, and feature importance
+    - Support Vector Machines (SVMs): maximum-margin classification, kernels, and regularization
+- Model Evaluation:
+    - Confusion Matrix: accuracy, precision, recall, F1-score, and ROC-AUC
+- Unsupervised Learning:
+    - K-Means Clustering: centroid-based clustering, cluster assignment, and evaluation metrics
+- Dimensionality Reduction:
+    - Principal Component Analysis (PCA): feature extraction, dimensionality reduction, and data visualization
+
+📜Technical Skills Learnt:
+
+- Programming language: Python
+- Data science tools: Jupyter Notebook, Anaconda Navigator
+- Libraries and frameworks: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+👩‍🎓Certification Details:
+
+- Course Name: Intro to Data Science
+- Issuing Organization: Simplilearn
+- Date of Completion: 30th July 2025
+
+This certification showcases my ability to apply data science concepts and techniques to drive business outcomes.
+</a>
+</p>
+
+---
 
 <p align="center">
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
