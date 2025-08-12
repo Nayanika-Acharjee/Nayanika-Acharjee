@@ -90,7 +90,8 @@ Both applications showcase the blend of interactivity, utility, and modern web t
 ---
   
 - 🚀 **[Virtual Rakhi Gift ](https://nayanika-acharjee.github.io/virtual-rakhi-gift)** –
--Rakhi Virtual Gift Project:
+
+- Rakhi Virtual Gift Project:
 🔥 Cutting-edge Virtual Rakhi Experience 🔥
 A dynamic, interactive virtual gift celebration 🌸 merging tradition with tech for an unforgettable online Rakhi experience!
 
