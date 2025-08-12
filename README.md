@@ -72,36 +72,34 @@
 ### ✨ Featured Projects
 
 - 🎯 **[Weather Forecasting App](https://nayanika-acharjee.github.io/Weather-Forecast-App)** –
-- Weather Forecasting App 🌤
+  Weather Forecasting App 🌤
 A robust weather forecasting application providing accurate weather reports for any location worldwide.
-
 🌈 Features
 - Location-based Weather: Get weather reports for any desired location.
 - Current & Forecasted Weather: View current conditions and forecasts.
 - User-friendly Interface: Clean and intuitive design for easy usage.
-
 🔧 Tech Stack
 - Frontend: React JS, JavaScript, HTML5, CSS3.
 - API Integration: Utilizes a weather API (e.g., OpenWeatherMap) for data.
-
 📚 About
 Both applications showcase the blend of interactivity, utility, and modern web technologies. Ideal for developers interested in interactive experiences or practical tools like weather forecasting.
 
+--
   
 - 🚀 **[Virtual Rakhi Gift ](https://nayanika-acharjee.github.io/virtual-rakhi-gift)** –
-- Rakhi Virtual Gift Project
+ Rakhi Virtual Gift Project
 🔥 Cutting-edge Virtual Rakhi Experience 🔥
 A dynamic, interactive virtual gift celebration 🌸 merging tradition with tech for an unforgettable online Rakhi experience!
-
-🎉 Features Highlight
+🎉 Features Highlight:
 - Scratch-to-Reveal Gift Card 🎁: Users scratch to uncover a surprise.
 - Thrilling Mini Shooter Game 🎮: Fun gameplay adds excitement.
 - Customizable Photo Frame 📸: Personalize with memories or themes.
 - Responsive & Engaging: Optimized for all devices 📱💻.
 - Festive Tech Blend: Celebrate Rakhi with modern web tech vibes 🎊.
-
-💻 Tech Stack
+💻 Tech Stack:
 - Frontend Magic: React JS + JavaScript + HTML5 + CSS3.
+
+ --
  
 - 🌐 **[Project Name](link)** – short description, tech stack
 
