@@ -72,8 +72,9 @@
 ### ✨ Featured Projects
 
 - 🎯 **[Weather Forecasting App](https://nayanika-acharjee.github.io/Weather-Forecast-App)** –
-- Weather Forecasting App 🌤
-A robust weather forecasting application providing accurate weather reports for any location worldwide.
+- Weather Forecasting App 🌤:
+  
+ A robust weather forecasting application providing accurate weather reports for any location worldwide.
 
 🌈 Features:
 - Location-based Weather: Get weather reports for any desired location.
@@ -92,8 +93,9 @@ Both applications showcase the blend of interactivity, utility, and modern web t
 - 🚀 **[Virtual Rakhi Gift ](https://nayanika-acharjee.github.io/virtual-rakhi-gift)** –
 
 - Rakhi Virtual Gift Project:
-🔥 Cutting-edge Virtual Rakhi Experience 🔥
-A dynamic, interactive virtual gift celebration 🌸 merging tradition with tech for an unforgettable online Rakhi experience!
+  
+ Cutting-edge Virtual Rakhi Experience✨
+ A dynamic, interactive virtual gift celebration merging tradition with tech for an unforgettable online Rakhi experience!🌸
 
 🎉 Features Highlight:
 - Scratch-to-Reveal Gift Card 🎁: Users scratch to uncover a surprise.
