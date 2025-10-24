@@ -49,6 +49,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parallax%20Motion-0066CC?style=for-the-badge&logo=airbnb&logoColor=white/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 </p>
 
 ---
@@ -118,21 +124,9 @@ Both applications showcase the blend of interactivity, utility, and modern web t
 Certificate of Completion: Introduction  to Data Science
 
 ✨Course Overview:
+
 I successfully completed the "Intro to Data Science" course, gaining a solid foundation in data science concepts and techniques. 
 
-💡Key Skills and Concepts Learnt:
-
-- Supervised Learning:
-    - Logistic Regression: understanding the logistic function, odds ratios, and model evaluation metrics
-    - Decision Trees: recursive partitioning, feature selection, and hyperparameter tuning
-    - Random Forest: ensemble methods, bagging, and feature importance
-    - Support Vector Machines (SVMs): maximum-margin classification, kernels, and regularization
-- Model Evaluation:
-    - Confusion Matrix: accuracy, precision, recall, F1-score, and ROC-AUC
-- Unsupervised Learning:
-    - K-Means Clustering: centroid-based clustering, cluster assignment, and evaluation metrics
-- Dimensionality Reduction:
-    - Principal Component Analysis (PCA): feature extraction, dimensionality reduction, and data visualization
 
 📜Technical Skills Learnt:
 
@@ -145,6 +139,31 @@ I successfully completed the "Intro to Data Science" course, gaining a solid fou
 - Course Name: Intro to Data Science
 - Issuing Organization: Simplilearn
 - Date of Completion: 30th July 2025
+
+This certification showcases my ability to apply data science concepts and techniques to drive business outcomes.
+</a>
+</p>
+
+---
+
+
+<p align="center">
+<a href="https://drive.google.com/file/d/1LNxMgqQm-8nS6teUHxyiIa4DPAuAxUZX/view?pli=1">
+Certificate of Completion: Python Libraries for Data Science
+
+✨Course Overview: 
+
+This course covered the core Python libraries used for data handling, analysis, visualization, and machine learning. You built practical projects that demonstrate how to work with real‑world datasets and deliver actionable insights.
+  
+📜Technical Skills Learnt:
+
+- NumPy, pandas, Matplotlib, Scikit-learn, Data Wrangling, Statistical Analysis.
+
+👩‍🎓Certification Details:
+
+- Course Name:Python Libraries for Data Science
+- Date of Completion: 17th August 2025
+- Issuing Platform: Simplilearn
 
 This certification showcases my ability to apply data science concepts and techniques to drive business outcomes.
 </a>
